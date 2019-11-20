@@ -8,7 +8,7 @@ let img = document.querySelector('img#semaforo')
 let res = document.querySelector('div#res')
 
 function sinalVerde(){
-    img.src = 'fotos/verde.jpg'
+    img.src = './resources/fotos/verde.jpg'
     setTimeout(() => {
         sinalAmarelo()
         res.innerHTML = `<strong>ATENÇÃO!</strong>`
@@ -17,7 +17,7 @@ function sinalVerde(){
 }
 
 function sinalAmarelo(){
-    img.src = 'fotos/amarelo.jpg'
+    img.src = './resources/fotos/amarelo.jpg'
     setTimeout(() => {
         sinalVermelho()
         res.innerHTML = `<strong>PARE!</strong>`
@@ -26,7 +26,7 @@ function sinalAmarelo(){
 }
 
 function sinalVermelho(){
-    img.src = 'fotos/vermelho.jpg'
+    img.src = './resources/fotos/vermelho.jpg'
     setTimeout(() => {
         sinalVerde()
         res.innerHTML = `<strong>SIGA!</strong>`
