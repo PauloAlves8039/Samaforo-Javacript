@@ -11,7 +11,7 @@ Aplicação web desenvolvida para simular um semáforo de trânsito com fins did
 <head>
 </head>
 <body>
-	<img src="https://github.com/PauloAlves8039/Samaforo-Javacript/blob/master/gif/Semaforo.gif" />
+	<img src="https://github.com/PauloAlves8039/Samaforo-Javacript/blob/master/resources/gif/Semaforo.gif"/>
 </body>
 </html>
 
