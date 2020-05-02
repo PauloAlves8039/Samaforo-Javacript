@@ -1,17 +1,15 @@
-# Samaforo-Javacript
-Aplicação web desenvolvida para simular um semáforo de trânsito com fins didáticos. 
+<h1 align="center">:vertical_traffic_light: Samaforo </h1>
 
-# Especificações
+## :computer: Projeto
+Aplicação web desenvolvida para fins didáticos com o objetivo de simular um semáforo de trânsito.
+
+## :wrench: Recursos Utilizados
 - HTML5
 - CSS3
 - Javascript
 
-# Interface da aplicação
-<html lang="pt-br">
-<head>
-</head>
-<body>
-	<img src="https://github.com/PauloAlves8039/Samaforo-Javacript/blob/master/resources/gif/Semaforo.gif"/>
-</body>
-</html>
+## :movie_camera: Interface da aplicação
+![semaforo](https://github.com/PauloAlves8039/Samaforo-Javacript/blob/master/resources/gif/Semaforo.gif)
 
+## Author
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
