@@ -1,7 +1,7 @@
-<h1 align="center">:vertical_traffic_light: Samaforo </h1>
+<h1 align="center">:vertical_traffic_light: Semáforo</h1>
 
 ## :computer: Projeto
-Aplicação web desenvolvida para fins didáticos com o objetivo de simular um semáforo de trânsito.
+Aplicação web desenvolvida para fins didáticos, utilizando o conjunto básico de desenvolvimento web para simular um semáforo de trânsito.
 
 ## :wrench: Recursos Utilizados
 - HTML5
